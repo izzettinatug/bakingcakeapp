@@ -1,0 +1,15 @@
+C:\Users\İzzettin ATUĞ\Source\Repos\Timer_odev_1\Timer_odev_1\bin\Debug\netcoreapp3.1\Timer_odev_1.exe
+C:\Users\İzzettin ATUĞ\Source\Repos\Timer_odev_1\Timer_odev_1\bin\Debug\netcoreapp3.1\Timer_odev_1.deps.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Timer_odev_1\Timer_odev_1\bin\Debug\netcoreapp3.1\Timer_odev_1.runtimeconfig.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Timer_odev_1\Timer_odev_1\bin\Debug\netcoreapp3.1\Timer_odev_1.runtimeconfig.dev.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Timer_odev_1\Timer_odev_1\bin\Debug\netcoreapp3.1\Timer_odev_1.dll
+C:\Users\İzzettin ATUĞ\Source\Repos\Timer_odev_1\Timer_odev_1\bin\Debug\netcoreapp3.1\Timer_odev_1.pdb
+C:\Users\İzzettin ATUĞ\Source\Repos\Timer_odev_1\Timer_odev_1\obj\Debug\netcoreapp3.1\Timer_odev_1.csprojAssemblyReference.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Timer_odev_1\Timer_odev_1\obj\Debug\netcoreapp3.1\Timer_odev_1.Form1.resources
+C:\Users\İzzettin ATUĞ\Source\Repos\Timer_odev_1\Timer_odev_1\obj\Debug\netcoreapp3.1\Timer_odev_1.csproj.GenerateResource.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Timer_odev_1\Timer_odev_1\obj\Debug\netcoreapp3.1\Timer_odev_1.AssemblyInfoInputs.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Timer_odev_1\Timer_odev_1\obj\Debug\netcoreapp3.1\Timer_odev_1.AssemblyInfo.cs
+C:\Users\İzzettin ATUĞ\Source\Repos\Timer_odev_1\Timer_odev_1\obj\Debug\netcoreapp3.1\Timer_odev_1.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Timer_odev_1\Timer_odev_1\obj\Debug\netcoreapp3.1\Timer_odev_1.dll
+C:\Users\İzzettin ATUĞ\Source\Repos\Timer_odev_1\Timer_odev_1\obj\Debug\netcoreapp3.1\Timer_odev_1.pdb
+C:\Users\İzzettin ATUĞ\Source\Repos\Timer_odev_1\Timer_odev_1\obj\Debug\netcoreapp3.1\Timer_odev_1.genruntimeconfig.cache
